@@ -6,7 +6,7 @@
  
   
   }
-  body{  background: url('/hinhnen2.jpg') no-repeat center center fixed;
+  body{  background: url('hinhnen2.jpg') no-repeat center center fixed;
     background-size: cover;}
   .error-block{
     border: 1px solid #f0f5f1; /* Adding a solid border with the color #45a049 */
